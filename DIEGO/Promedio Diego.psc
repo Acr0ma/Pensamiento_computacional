@@ -17,6 +17,18 @@ Algoritmo Promedio
 				Si cal4>=0 Y cal4<=10 Entonces
 					prom <- (cal1+cal2+cal3+cal4)/4
 					Escribir 'promedio del',nombreAlumno,'es de',prom
+					Si prom>=8 Y prom<=7.1 Entonces
+						Escribir 'muy bien'
+					SiNo
+						Si prom>=10 Y prom<=8.1 Entonces
+							Escribir 'exelente'
+						SiNo
+							Si prom>=5.9 Y prom<=0 Entonces
+								Escribir 'mal'
+							FinSi
+						FinSi
+					FinSi
+				FinSi
 				SiNo
 					Escribir 'calificacion fuera de rango'
 				FinSi
@@ -32,16 +44,5 @@ Algoritmo Promedio
 	Si prom>=6 Y prom<=7 Entonces
 		Escribir 'bien'
 	SiNo
-		Si prom>=8 Y prom<=7.1 Entonces
-			Escribir 'muy bien'
-		SiNo
-			Si prom>=10 Y prom<=8.1 Entonces
-				Escribir 'exelente'
-			SiNo
-				Si prom>=5.9 Y prom<=0 Entonces
-					Escribir 'mal'
-				FinSi
-			FinSi
-		FinSi
-	FinSi
+	
 FinAlgoritmo
