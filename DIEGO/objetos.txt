@@ -1,0 +1,34 @@
+abstracion
+encapsulamiento
+herencia
+polimorfismo
+-----------------
+varible = 1
+arreglo = muchos
+-----------------
+tendre un molde:
+divididas en 2 cosas importantes:
+1. atributos,caracteristicas,variables
+2. metodos,funcionalidad,verbos,funciones
+----------------
+ejemplo:
+clase animal:
+1.especie
+ peso
+ tamaño
+ edad.
+2.comer()
+ cazar()
+ desplazarse().
+---------------
+instanciar
+---------------
+ejemplo:
+clase:
+1.nombre
+ apellido
+ promedio.
+2.costructor()//este metodo es completamente nesesario para poder instanciar los opjetos de la clase//
+ mostraseDatos()
+ 
+ 

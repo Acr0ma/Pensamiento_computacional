@@ -1,0 +1,19 @@
+arrayList:moddificable
+
+linkedList:igual al arrayList,mas almacenamiento
+
+stak(pilas)
+
+ingresar nombre en ingles<----(colas)
+
+----------------------------
+como poner arreglos:
+
+Ejemplo:
+String [] usuarios = new usuarios[3];
+usuarios={"Juan","Pedro","Jose"};
+int [] calificaciones ={5,9,8};
+For(int i = 0;i<3;i++){
+   System.out.println("Usuario " + (i + 1)i + ": " + usuarios[i] + "Calificacion: " + calificaciones[i]);
+}
+

@@ -1,0 +1,12 @@
+7 dias semana
+
+variable dia
+ si dia es 1 me escribes Lunes
+ si dia es 2 me escribes Martes
+ si dia es 3 me escribes Miercoles
+ si dia es 4 me escribes Jueves
+ si dia es 5 me escribes Viernes
+ si dia es 6 me escribes Sabado
+ si dia es 7 me escribes Domingo
+ si dia es mayor 7 o menor a 1 me escribes error
+ 
