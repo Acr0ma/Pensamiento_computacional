@@ -1,3 +1,6 @@
+https://forms.office.com/r/Mfefyg84Kx
+
+
 
 # escuela_de_codigo
 Aquí encontrarás los temarios y el desarrollo de las actividades que se desarrollarán en la Escuela de Código PILARES
@@ -66,3 +69,6 @@ https://ocw.unican.es/course/view.php?id=195&section=2
 
 https://es.coursera.org/learn/algorithms-part1#syllabus
 
+
+
+https://view.genially.com/65a53387ea229c0014ebe584
